@@ -12,7 +12,7 @@ depois calcular a raiz quadrada do resultado.
 using namespace std;
 
 float mediaGeometrica(float operando1, float operando2){
-    
+	return sqrt(operando1*operando2);    
 }
 
 int main() {

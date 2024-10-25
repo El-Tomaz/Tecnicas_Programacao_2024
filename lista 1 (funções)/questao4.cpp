@@ -1,3 +1,11 @@
+/*
+
+Crie uma função chamada somaNaturais que receba um número inteiro positivo n como parâmetro
+ e retorne a soma de todos os números naturais de 1 até n. 
+ A função deve utilizar a estrutura de repetição for para calcular a soma.
+
+*/
+
 #include <iostream>
 #include <cassert>
 
